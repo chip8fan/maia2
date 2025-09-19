@@ -7,10 +7,10 @@ max_epochs: 3
 max_ply: 300
 clock_threshold: 30
 chunk_size: 20000
-start_year: 2018
-start_month: 5
-end_year: 2023
-end_month: 11
+start_year: 2013
+start_month: 1
+end_year: 2013
+end_month: 1
 from_checkpoint: false
 checkpoint_epoch: 0
 checkpoint_year: 2018
